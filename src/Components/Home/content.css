@@ -1,0 +1,12 @@
+.heading{
+    color: orangered;
+}
+
+.heading-two:hover{
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.hover:hover{
+    width: 80%;
+}
