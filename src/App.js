@@ -4,6 +4,7 @@ import Bannner from './Components/Home/Bannner';
 import Content from './Components/Home/Content';
 import ProjectIdea from './Components/Home/ProjectIdea';
 import Contact from './Components/Home/Contact';
+import ExtraSection from './Components/Home/ExtraSection';
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <Bannner/>
       <Content/>
       <ProjectIdea/>
+      <ExtraSection/>
       <Contact/>
     </div>
   );

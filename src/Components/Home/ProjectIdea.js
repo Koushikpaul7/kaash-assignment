@@ -19,11 +19,11 @@ const ProjectIdea = () => {
                        <div className='d-flex w-50 mx-auto bg-secondary rounded-circle h-50'>
                        <img className='w-100 zoom' src={circle} alt="" />
                        </div>
-                       <p className=' text-center mb-5 pb-5'>Know your solution</p>
+                       <p className=' text-center mb-5 pb-4'>Know your solution</p>
                     </div>
                 </div>
                 <div className='col-md-6'>
-                <div className='card bg-dark pb-4'>
+                <div className='card bg-dark '>
                         <h1 className='text-center pt-5'>LIGHT SCIENCE</h1>
                         <p className='text-center  pt-5 pb-2'>Unfolding the science behind light and tools to build an intelligent solution.</p>
                         <p className='text-center'>Scenes <span className='heading'>|</span> Calculations  <span className='heading'>|</span> | Engineering</p>
